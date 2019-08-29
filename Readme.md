@@ -9,3 +9,7 @@ to a person or organization that in your opinion does harm to the climate. And e
 [![10 Dollar](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/US10dollarbill-Series_2004A.jpg/1920px-US10dollarbill-Series_2004A.jpg)](https://twitter.com/hashtag/11dollar4climate)
 
 go to another organization that actively works to help the climate.
+
+[Example: 1 Dollar for Jair Bolsonaro, 10 Dollar for Sting's Rainforest Foundation](https://github.com/WolfgangFahl/11dollar4climate/issues/1)
+
+[Add your donation documentation here](https://github.com/WolfgangFahl/11dollar4climate/issues/new)
