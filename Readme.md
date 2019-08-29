@@ -1,4 +1,6 @@
-#Donate 11 Dollar for the climate
+# Donate 11 Dollar for the climate
+
+[![GitHub issues](https://img.shields.io/github/issues/WolfgangFahl/11dollar4climate.svg)](https://github.com/WolfgangFahl/11dollar4climate/issues)
 
 Send
 [![1 Dollar](https://upload.wikimedia.org/wikipedia/commons/2/23/US_one_dollar_bill%2C_obverse%2C_series_2009.jpg)](https://twitter.com/hashtag/11dollar4climate)
