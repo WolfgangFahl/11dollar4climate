@@ -10,6 +10,8 @@ to a person or organization that in your opinion does harm to the climate. And e
 
 go to another organization that actively works to help the climate.
 
-[Example: 1 Dollar for Jair Bolsonaro, 10 Dollar for Sting's Rainforest Foundation](https://github.com/WolfgangFahl/11dollar4climate/issues/1)
+[Example 1: 1 Dollar for Jair Bolsonaro, 10 Dollar for Sting's Rainforest Foundation](https://github.com/WolfgangFahl/11dollar4climate/issues/1)
+
+[Example 2: 1 Dollar for Boris Johnson 10 Dollar for Sustrans](https://github.com/WolfgangFahl/11dollar4climate/issues/2)
 
 [Add your donation documentation here](https://github.com/WolfgangFahl/11dollar4climate/issues/new)
